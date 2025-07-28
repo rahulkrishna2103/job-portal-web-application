@@ -1,8 +1,3 @@
-Got it! Here’s a clean, properly formatted README.md for your Job Portal Application — ready to copy and paste into your GitHub repo:
-
-⸻
-
-
 # 📚 Job Portal Application
 
 This is a *Job Portal Application* built using *Spring Boot. It follows a layered architecture with **Controller, **Service, and **Repository* layers to handle *Job, **Company, and **Review* modules.
